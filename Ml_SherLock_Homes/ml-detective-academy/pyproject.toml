@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ml-detective-academy"
+version = "0.0.0"
+description = "A repository of instructive ML case studies and from-scratch implementations."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+
+[tool.black]
+line-length = 88
+
+[tool.flake8]
+max-line-length = 88

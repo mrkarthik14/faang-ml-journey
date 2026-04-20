@@ -1,0 +1,7 @@
+pytest>=7.0
+black
+isort
+flake8
+numpy
+pandas
+scikit-learn

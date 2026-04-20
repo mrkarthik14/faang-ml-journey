@@ -1,0 +1,1 @@
+Country,GDP per capita (USD),Life satisfaction
